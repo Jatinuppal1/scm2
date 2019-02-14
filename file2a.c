@@ -1,6 +1,7 @@
-#include<iostream>
+#include<stdio.h>
 int main()
 {
-	cout<<"Introduction\n";
-	cout<<"My name is Jatin\n";
+	printf("Introduction\n");
+	printf("My name is Jatin\n");
+	printf("I am learning SCM\n");
 }
